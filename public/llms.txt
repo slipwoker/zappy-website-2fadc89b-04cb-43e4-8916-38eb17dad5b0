@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רוצה לבנות עסק איקומרס מנצח? פאפ טאקוס מציעה לך את הכלים החכמים ביותר לניהול מלאי ומכירות אונליין. הצטרף אלינו והתחל להרוויח יותר עוד היום!
+
+### תכונות
+https://example.com/features
+גלה את תכונות הפלטפורמה המתקדמת ביותר לניהול איקומרס: מלאי חכם, אינטגרציה עם אמזון וכלים שיקחו את המכירות שלך לרמה הבאה. בדוק עכשיו!
+
+### אודות
+https://example.com/about
+פאפ טאקוס נולדה מתוך חזון אחד: להפוך כל עסק קטן לאימפריית איקומרס. גלה מי אנחנו, מה מניע אותנו ולמה אלפי לקוחות בוחרים בנו כשותף העסקי שלהם.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על הפלטפורמה הטובה ביותר לעסק האיקומרס שלך? צוות המומחים של פאפ טאקוס כאן בשבילך. צור קשר עכשיו וקבל ייעוץ אישי חינם תוך 24 שעות!
+
+### Products
+https://example.com/products
+המוצרים שלנו - פאפ טאקוס
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - פאפ טאקוס
+
+### Category
+https://example.com/category/:slug
+מוצרים - פאפ טאקוס
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
